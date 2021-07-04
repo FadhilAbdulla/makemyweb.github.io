@@ -1,0 +1,151 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+nav {
+  background-color: #242222;
+  height: 70px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.navlink{
+  margin-left: 80%;
+}
+
+nav > img {
+  width: 70px;
+}
+
+.navlink > a {
+  color: #ffde59;
+  text-decoration: none;
+  background-color: #3d86cb;
+  padding: 8px 15px;
+  border-radius: 25px;
+  font-size: 12px;
+}
+
+main > img {
+  width: 200px;
+}
+
+main {
+  padding: 20px;
+  min-height: 350px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+main > .left > .head > p {
+  margin-top: 10px;
+}
+
+main > .left > .head > p > span {
+  color: #3d86cb;
+}
+
+.social_icons {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+.social_icons > img {
+  width: 15px;
+  margin-right: 10px;
+}
+.form_1{
+  text-align: center;
+  margin: 0 auto;
+
+  width: 80%;
+  height: 85%;
+  margin-top: 30px;
+  color: black;
+
+  
+
+  
+}
+.bg-div{
+  margin-top: 20px;
+  text-align: center;
+  margin: 0 auto;
+  width: 50%;
+  height: 50%;
+  border: 2px solid black;
+}
+
+.edit{
+  float: left;
+  margin: 60px;
+  
+}
+body{
+  background-color: grey;
+  text-align: center;
+  margin:0 auto;
+}
+.resize{
+  margin-left: 75%;
+}
+.bg_nav{
+  background-color: rgb(182, 218, 241);
+}
+.courosel{
+  background-color: green;
+  height: 1000px;
+  width: 100%;
+}
+.join_us{
+  text-align: center;
+  margin-top: 50px;
+}
+.form{
+  height: 700px;
+  width: 100%;
+  padding: 20px;
+
+}
+.show{
+  background-color: rgb(182, 218, 241);
+}
+.first{
+  margin-top: 30px;
+}
+.input_size{
+  width: 50%;
+}
+.form2{
+  text-align: center;
+  margin: 0 auto;
+  border: 2px solid black;
+  width: 60%;
+}
+body{
+  margin: 0;
+}
+.footer{
+  width: 100%;
+  height: 100px;
+  background-color: rgb(0, 96, 141);
+}
+.footer1{
+  width: 100%;
+  height: 30px;
+  background-color: rgb(3, 59, 85);
+  text-align: center;
+  color: white;
+
+}
+.group{
+  width: 100%;
+  text-align: center;
+  text-decoration: thistle;
+  color: white;
+  
+}

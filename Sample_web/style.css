@@ -125,6 +125,7 @@ body{
   margin: 0 auto;
   border: 2px solid black;
   width: 60%;
+  box-shadow: 2px 2px 2px 2px;
 }
 body{
   margin: 0;
